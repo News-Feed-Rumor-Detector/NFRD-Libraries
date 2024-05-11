@@ -4,5 +4,5 @@ torch
 scikit-learn
 matplotlib
 tqdm
-numpy
+numpy==1.26.3
 requests
