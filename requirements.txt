@@ -3,7 +3,6 @@ transformers
 torch
 scikit-learn
 matplotlib
-kaggle_secrets
 tqdm
 numpy
 requests
